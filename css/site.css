@@ -1,0 +1,78 @@
+html,
+body {
+    height: 100%;
+}
+
+.wrap {
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -60px;
+    padding: 0 0 60px;
+}
+
+.wrap > .container {
+    -webkit-box-shadow: 0 0 24px rgba(0,0,0,.8);
+    -moz-box-shadow: 0 0 24px rgba(0,0,0,.8);
+    box-shadow: 0 0 24px rgba(0,0,0,.8);
+    width: 958px !important;
+}
+
+.header {
+    min-height: 150px;
+    padding: 10px;
+}
+
+.header-img {
+    min-height: 150px;
+    padding: 10px;
+    color: white!important;
+    background-image: url("../img/themes/healthandbeauty/ina-soulis-c04cpDHzdSI-unsplash.jpg");
+}
+
+.header-text {
+    font-size: 41px;
+}
+
+.footer {
+    height: 60px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.bg-white {
+    background-color: white
+}
+
+.bg-lightgrey {
+    background-color: lightgrey
+}
+
+.bg-lightpink {
+    background-color: #eed3d7;
+}
+
+.bg-lightblue {
+    background-color: lightblue;
+}
+
+.bg-lightskyblue {
+    background-color: lightskyblue;
+}
+
+.bg-lightyellow {
+    background-color: lightyellow;
+}
+
+.bg-image {
+    background-image: url("../img/background/0387-f2YIIhaLHyw.jpg");
+}
+
+.text-white {
+    color: white;
+}
+
+.text-black {
+    color: black;
+}
+
